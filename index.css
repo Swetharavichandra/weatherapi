@@ -1,0 +1,26 @@
+body{
+  background: url(https://cdn.cbeditz.com/cbeditz/preview/cloud-with-sky-background-full-hd-download-11621551789ke2g0klmhp.jpg);
+  background-size: cover;
+  height:100vh;
+}
+.container{
+  padding-top:30px ;
+  width:60%;
+}
+.input-group{
+margin-top: 40px;
+}
+
+.cloud{
+width:200px;
+object-fit: cover;
+}
+.form-control{
+  align-items: center;
+}
+h1{
+  text-align: center;
+}
+p{
+  text-align:center;
+}
